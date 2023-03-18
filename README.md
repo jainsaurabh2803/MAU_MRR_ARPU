@@ -10,4 +10,4 @@ Pros and Cons of both the above views:
     
 In all our codes we would be consedering all the senarios of Renewal, Upgrades,downgrades, Reactivation,Churn, migrated out and migrated within same plan
 
-
+Sample data for both the logic can be found in this repo
